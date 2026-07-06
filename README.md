@@ -28,20 +28,20 @@ Git & GitHub
 Postman
 VS Code
 # 📂 Project Structure
-project/
+''' project/
 │
 ├── frontend/      # React frontend
 ├── backend/       # Node.js backend
-└── README.md
+└── README.md '''
 # ⚙️ Installation & Setup
-# 1️⃣ Clone the repository
+1️⃣ Clone the repository
 git clone https://github.com/your-username/cookbook-mern.git
 cd cookbook-mern
-# 2️⃣ Setup Backend
+2️⃣ Setup Backend
 cd backend
 npm install
 npm start
-# 3️⃣ Setup Frontend
+3️⃣ Setup Frontend
 cd frontend
 npm install
 npm run dev
