@@ -24,11 +24,11 @@ CookBook is a full-stack web application that helps users discover, create, and 
 - MongoDB
 - Mongoose
 # Tools
-Git & GitHub
-Postman
-VS Code
+- Git & GitHub
+- Postman
+- VS Code
 # 📂 Project Structure
-''' project/
+'''text project/
 │
 ├── frontend/      # React frontend
 ├── backend/       # Node.js backend
