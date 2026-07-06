@@ -28,25 +28,31 @@ CookBook is a full-stack web application that helps users discover, create, and 
 - Postman
 - VS Code
 # 📂 Project Structure
-'''text
+```text
 project/
 │
-├── frontend/      # React frontend
-├── backend/       # Node.js backend
-└── README.md 
-'''
+├── frontend/          # React frontend
+├── backend/           # Node.js backend
+└── README.md
+```
 # ⚙️ Installation & Setup
-1️⃣ Clone the repository
-- git clone https://github.com/your-username/cookbook-mern.git
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/your-username/cookbook-mern.git
 cd cookbook-mern
-2️⃣ Setup Backend
-- cd backend
-- npm install
-- npm start
-3️⃣ Setup Frontend
-- cd frontend
-- npm install
-- npm run dev
+```
+### 2️⃣ Setup Backend
+```bash
+cd backend
+npm install
+npm start
+```
+### 3️⃣ Setup Frontend
+```bash
+cd ../frontend
+npm install
+npm run dev
+```
 # 🔑 Environment Variables
 Create a .env file in the frontend folder:
 
